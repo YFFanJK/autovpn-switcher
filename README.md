@@ -17,3 +17,7 @@ VPN切换器，防止忘记切换
 | Qv2ray | ❌ |
 | Shadowrocket | ❌ |
 | ClashX | ❌ |
+
+# 使用指南
+Clash Verge:
+https://github.com/YFFanJK/autovpn-switcher/blob/main/clash-verge-use.md
