@@ -25,4 +25,4 @@ https://github.com/YFFanJK/autovpn-switcher/blob/main/clash-verge-use.md
 # github文件说明
 你可以在soft文件夹里面找到源代码
 
-或者直接在下载.exe文件
+或者直接在**Releases**下载.exe文件
